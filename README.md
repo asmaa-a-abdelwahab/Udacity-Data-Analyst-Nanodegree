@@ -34,3 +34,5 @@ My projects in Data Analyst Nanodegree
 
 3. Data Storytelling:
 - Learn to apply sound design and data visualization principles to the data analysis process. Learn how to use analysis and visualizations to tell a story with data.
+
+![alt text](https://raw.githubusercontent.com/asmaa-ali2016/Udacity-Data-Analyst-Nanodegree/edit/master/Certificate.png)
