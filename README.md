@@ -6,6 +6,8 @@ My projects in Data Analyst Nanodegree
 * Project 1: Explore US Bikeshare Data.
 * Project 2: Investigate a Dataset.
 * Project 3: Analyze A/B Test Results.
+
+## Second Term Projects
 * Project 4: Test a Perceptual Phenomenon
 * Project 5: Explore and Summarize Data
 * Project 6: Wrangle and Analyze Data
